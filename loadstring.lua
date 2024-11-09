@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Severitylol/Universal-Sword-Reach/main/swordreach.lua')()
+loadstring(game:HttpGet('https://github.com/skibiditoiletrizzlergyatt/Universal-Sword-Reach/blob/patch-2/swordreach.lua')()
